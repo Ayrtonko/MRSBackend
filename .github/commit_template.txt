@@ -1,4 +1,4 @@
-# <type>: <short summary>
+# AB#{task-number} <repo>/<type>: <short summary>
 #
 # Optional longer description.
 #
@@ -11,7 +11,9 @@
 # test:     Adding or updating tests
 # chore:    Routine tasks or maintenance (e.g., build process, dependencies)
 #
-# Example:
-# feat: add user authentication
+# Repo examples:
+# frontend/feat: add login form
+# backend/fix: handle missing auth header
 #
-# --- Commit message above this line ---
+# Example with Azure DevOps task:
+# AB#1234 frontend/feat: add login form
