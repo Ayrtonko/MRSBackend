@@ -16,6 +16,8 @@ packages/
 # Logs
 *.log
 
-
 # Local environment files
-.env
+.env*
+
+# Rider settings
+/MRSBackend.sln.DotSettings.user
