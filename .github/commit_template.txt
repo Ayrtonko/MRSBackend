@@ -1,4 +1,4 @@
-# AB#{task-number} <repo>/<type>: <short summary>
+# AB#{task-number}-<repo>/<type>: <short summary>
 #
 # Optional longer description.
 #
