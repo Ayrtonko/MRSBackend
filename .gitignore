@@ -1,11 +1,12 @@
-﻿# Build results
+﻿/.idea/
+/.vs/
+
+# Build results
 bin/
 obj/
 out/
 
 # project files
-.vs/
-.idea/
 *.sln.iml
 
 # NuGet packages
