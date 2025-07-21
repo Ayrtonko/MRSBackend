@@ -3,7 +3,8 @@ bin/
 obj/
 out/
 
-# Rider project files
+# project files
+.vs/
 .idea/
 *.sln.iml
 
