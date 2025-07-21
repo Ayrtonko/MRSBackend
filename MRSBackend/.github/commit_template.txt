@@ -1,0 +1,19 @@
+# AB#{task-number}-<repo>/<type>: <short summary>
+#
+# Optional longer description.
+#
+# Type examples:
+# feat:     A new feature
+# fix:      A bug fix
+# docs:     Documentation changes only
+# style:    Code formatting, no logic changes
+# refactor: Code changes that neither fix a bug nor add a feature
+# test:     Adding or updating tests
+# chore:    Routine tasks or maintenance (e.g., build process, dependencies)
+#
+# Repo examples:
+# frontend/feat: add login form
+# backend/fix: handle missing auth header
+#
+# Example with Azure DevOps task:
+# AB#1234 frontend/feat: add login form
