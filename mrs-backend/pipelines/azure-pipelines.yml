@@ -11,7 +11,7 @@ stages:
         displayName: Scan secrets
         steps:
           - checkout: self
-            fetchDepth: 0
+            fetchDepth: -1
           - task: Gitleaks@3
             inputs:
               scanlocation: '$(Build.SourcesDirectory)'
