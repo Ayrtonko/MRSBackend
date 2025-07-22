@@ -12,7 +12,7 @@ stages:
         steps:
           - checkout: self
             fetchDepth: -1
-          - task: Gitleaks@2
+          - task: Gitleaks@3
             inputs:
               scanlocation: '$(Build.SourcesDirectory)'
               configtype: 'predefined'
